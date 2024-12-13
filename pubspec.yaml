@@ -1,11 +1,11 @@
 name: flux_scaffold
 description: "A customizable Flutter scaffold that simplifies app layout and navigation."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/sarvajeet23/flux_scaffold
 license: MIT
 
 environment:
-  sdk: ^3.6.0
+  sdk: ^3.0.0
   flutter: ">=1.17.0"
 
 dependencies:
