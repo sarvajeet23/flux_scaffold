@@ -1,0 +1,1 @@
+enum TransitionStyle { slide, bottomSheet, zoomOut }
