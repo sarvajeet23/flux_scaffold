@@ -13,7 +13,7 @@ class TabNavigator extends StatelessWidget {
     return Navigator(
       key: navigatorKey,
       onGenerateRoute: (settings) {
-        log("onGenerateRoute::$settings");
+        log("Route::$settings");
         return MaterialPageRoute(
           builder: (context) => child,
         );

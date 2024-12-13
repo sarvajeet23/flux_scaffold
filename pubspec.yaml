@@ -1,7 +1,8 @@
 name: flux_scaffold
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/sarvajeet23/flux_scaffold
+license: MIT
 
 environment:
   sdk: ^3.6.0
